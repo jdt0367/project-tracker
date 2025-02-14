@@ -1,8 +1,4 @@
-/********* a1_data_structures.h ********
-	
-	Student Name 	= Jordan Trach
-	Student Number	= 101293174
-*/
+/********* a1_data_structures.h *********/
 
 #ifndef __A1_DATA_STRUCTURES_H__
 #define __A1_DATA_STRUCTURES_H__
