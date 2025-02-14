@@ -1,8 +1,4 @@
-/********* a1_functions.c ********
-	
-	Student Name 	= 
-	Student Number	= 
-*/
+/********* a1_functions.c *********/
 
 #include "a1_functions.h"
 #include "a1_data_structures.h"
