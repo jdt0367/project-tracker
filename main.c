@@ -1,8 +1,4 @@
-/********* main.c ********
-	
-	Student Name 	= Jordan Trach
-	Student Number	= 101293174
-*/
+/********* main.c ********/
 
 //Complete the includes
 #include "a1_data_structures.h"
