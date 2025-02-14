@@ -1,8 +1,4 @@
-/********* a1_functions.h ********
-	
-	Student Name 	= Jordan Trach
-	Student Number	= 101293174
-*/
+/********* a1_functions.h *********/
 
 /************ TASK 5 ********
  Proposed solution: each milestone now contains a list of all of its activity ids. 
